@@ -3,6 +3,13 @@ SEGABoot
 
 Just having fun with C#.
 
+How to use?
+=========================
+- Go to the Release tag, download the zip and extract all files to the game root folder.
+- Run SEGABootKeys first to generate "KEYCHIP KEYS", click SAVE to generate config.divakey
+- Run SEGABoot to have fun!
+(the program only read your USB info and save it to local file which do not connect to the Internet, or any other kind of data collecting.)
+
 Developer Info
 =========================
 
