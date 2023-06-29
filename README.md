@@ -16,6 +16,13 @@ NOTE
 - ALL THE CONTENT IN THE "config.divakey" AND ON THE SERVER ARE THE SAME. AND THESE DATA ARE HARMLESS (cause no one cares about your USB Serial or Manufacturer, and if they care, what can they do to harm you?)
 - The public text file: [This is a potato database, please don't attack.](https://quangminh.name.vn/diva/keys.txt)
 
+Preview (click to watch)
+=========================
+<a href="https://www.youtube.com/watch?v=ottlcYBseQ8" target="_blank">
+ <img src="http://img.youtube.com/vi/ottlcYBseQ8/maxresdefault.jpg" alt="Watch the video"/>
+</a>
+
+
 Developer Info
 =========================
 
