@@ -5,10 +5,16 @@ Just having fun with C#.
 
 How to use?
 =========================
-- Go to the Release tag, download the zip and extract all files to the game root folder.
-- Run SEGABootKeys first to generate "KEYCHIP KEYS", click SAVE to generate config.divakey
+- Go to the Release tag, download the LATEST zip and extract all files to the game root folder.
+- Run SEGABootKeys first to generate "KEYCHIP KEYS", click SAVE to generate config.divakey and/or UPLOAD to server.
 - Run SEGABoot to have fun!
-(the program only read your USB info and save it to local file which do not connect to the Internet, or any other kind of data collecting.)
+- Update: Now the keys can be stored on a text file server so you can use it online or offline (Just for more realistic).
+
+NOTE
+=========================
+- WE ONLY UPLOAD YOUR USB ENCODED KEYS FROM THE USB INFORMATION (Serial Number, Manufacturer) AND DO NOT ACCESSING OR GATHERING ANY FILES OR OTHER INFORMATIONS.
+- ALL THE CONTENT IN THE "config.divakey" AND ON THE SERVER ARE THE SAME. AND THESE DATA ARE HARMLESS (cause no one cares about your USB Serial or Manufacturer, and if they care, what can they do to harm you?)
+- The public text file: [This is a potato database, please don't attack.](https://quangminh.name.vn/diva/keys.txt)
 
 Developer Info
 =========================
