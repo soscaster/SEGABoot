@@ -1,6 +1,5 @@
 SEGABoot
 =====================================================
-
 Just having fun with C#.
 
 How to use?
@@ -9,6 +8,11 @@ How to use?
 - Run SEGABootKeys first to generate "KEYCHIP KEYS", click SAVE to generate config.divakey and/or UPLOAD to server.
 - Run SEGABoot to have fun!
 - Update: Now the keys can be stored on a text file server so you can use it online or offline (Just for more realistic).
+
+Changelog
+=========================
+- Update 1.1: Now the keys can be stored on a text file server so you can use it online or offline (Just for more realistic).
+- Update 1.1.1: Now you can see all the keys stored on the server by a website "https://quangminh.name.vn/diva/" 
 
 NOTE
 =========================
@@ -25,7 +29,6 @@ Preview (click to watch)
 
 Developer Info
 =========================
-
 * Dev name: NGUYEN QUANG MINH
 
 My website
